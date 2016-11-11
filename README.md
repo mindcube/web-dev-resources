@@ -8,3 +8,6 @@ A collection of resources I've collected to essentially "save for later" to use 
 - [Pass props to parent component in React.js](http://stackoverflow.com/questions/22639534/pass-props-to-parent-component-in-react-js)
 
 ## Back End
+
+## Brain REsources
+- [52 Books in 52 Days](https://www.quora.com/I-want-to-read-52-books-in-52-weeks-Which-books-changed-your-life)
