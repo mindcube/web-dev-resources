@@ -6,6 +6,7 @@ A collection of resources I've collected to essentially "save for later" to use 
 
 ## React
 - [Pass props to parent component in React.js](http://stackoverflow.com/questions/22639534/pass-props-to-parent-component-in-react-js)
+- [Antd -  A set of high-quality React components](https://ant.design/docs/react/introduce)
 
 ## Back End
 Much coming soon :)
