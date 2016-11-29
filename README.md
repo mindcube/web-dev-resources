@@ -13,3 +13,6 @@ Much coming soon :)
 
 ## Brain Resources
 - [52 Books in 52 Days](https://www.quora.com/I-want-to-read-52-books-in-52-weeks-Which-books-changed-your-life)
+
+## Inspiration
+- [37 Signals - "Getting Real"](http://gettingreal.37signals.com/toc.php) - Short essays and juicy brain bits for inspiring project development.
