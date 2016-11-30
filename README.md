@@ -16,3 +16,4 @@ Much coming soon :)
 
 ## Inspiration
 - [37 Signals - "Getting Real"](http://gettingreal.37signals.com/toc.php) - Short essays and juicy brain bits for inspiring project development.
+- [Hackernews/Indiehackers: Logojoy](https://news.ycombinator.com/item?id=13065015) - Very inspiring story about a a bootstrapped startup and discussion on hackernews.
