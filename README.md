@@ -17,3 +17,6 @@ Much coming soon :)
 ## Inspiration
 - [37 Signals - "Getting Real"](http://gettingreal.37signals.com/toc.php) - Short essays and juicy brain bits for inspiring project development.
 - [Hackernews/Indiehackers: Logojoy](https://news.ycombinator.com/item?id=13065015) - Very inspiring story about a a bootstrapped startup and discussion on hackernews.
+
+## Motivation
+- [Do The Hardest Thing First](http://seldomlogical.com/2009/OCT/29/do-the-hardest-thing-first/) - A guide to getting off your ass and doing the hardest things first for consistent growth and results.  This can apply to pretty much every area in life.
